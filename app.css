@@ -1,34 +1,36 @@
-#resultsUI{
-  border: 2px solid black;
-  padding: 6px;
-  margin-top: 10px;
-  font-size: 18px;
-  color: #616161;
-
-
-}
-#statusUI{
+#resultsUI {
   border: 2px solid black;
   padding: 6px;
   margin-top: 10px;
   font-size: 16px;
   color: #616161;
-
 }
-body{
+
+#statusUI {
+  border: 2px solid black;
+  padding: 6px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #616161;
+}
+
+body { 
   margin-top: 40px;
   display: flex; 
   justify-content: space-around; 
-} 
-h1{
+}
+
+h1 {
   justify-content: center;
   text-align: center;
   margin-top: 40px;
   display: flex; 
   justify-content: space-around; 
-} 
-#div1{
+}
+
+h2 {
   font-size: 18px;
   font-weight: bold;
   margin-top: 20px;
+  color:red;
 } 
